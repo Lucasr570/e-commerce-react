@@ -2,18 +2,12 @@
 import { useState } from "react"
 import '../styles/card.css'
 
-// eslint-disable-next-line react/prop-types
 export const Card = ({imagen, 
                       titulo, 
                       descripcion, 
-                      // eslint-disable-next-line react/prop-types
                       precio, 
                       handleAgregar,
                       handleQuitar,
-                      // eslint-disable-next-line react/prop-types, no-unused-vars
-                      handleAumentar,
-                      // eslint-disable-next-line no-unused-vars
-                      handleDisminuir
                     }) => {
 
     const [added, setAdded] = useState(false)

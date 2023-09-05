@@ -3,11 +3,10 @@
     top: 0;
     left: 0;
     width: 100%;
-    z-index: 1000; /* Ajusta según sea necesario para que esté por encima del contenido */
-    background-color: #333; /* Cambia esto al color de fondo que desees */
-    color: white; /* Cambia esto al color de texto que desees */
-    padding: 10px 0; /* Ajusta el espaciado según tus necesidades */
+    z-index: 1000; 
+    background-color: #e3e0ec; 
+    color: rgb(228, 225, 233); 
+    padding: 10px 0; 
   }
-  
-  /* Ajusta los estilos del contenido principal si es necesario */
+
   
