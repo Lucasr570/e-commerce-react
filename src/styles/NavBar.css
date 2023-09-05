@@ -1,0 +1,13 @@
+.navbar-fixed {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; /* Ajusta según sea necesario para que esté por encima del contenido */
+    background-color: #333; /* Cambia esto al color de fondo que desees */
+    color: white; /* Cambia esto al color de texto que desees */
+    padding: 10px 0; /* Ajusta el espaciado según tus necesidades */
+  }
+  
+  /* Ajusta los estilos del contenido principal si es necesario */
+  
